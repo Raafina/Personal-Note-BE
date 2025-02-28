@@ -5,7 +5,9 @@ Learning project for mastering React through Dicoding Course. This repository co
 <ul>
     <li>Note Management (CRUD Notes)</li>
     <li>Archive Note</li>
-    <li>User Authentication (JWT)</li> </ul>
+    <li>User Authentication (JWT)</li> 
+</ul>
+
 ## 🛠️ Tech Stack
 <ol>
     <li>Hapi.js</li>
