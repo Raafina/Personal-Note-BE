@@ -31,7 +31,7 @@ Learning project for mastering React through Dicoding Course. This repository co
 </li> 
 <li>
   <p>Start the application</p>
-  <p><pre>npm run start</pre></p>
+  <p><pre>npm run start:dev</pre></p>
 </li>
   
 <p align="center">
